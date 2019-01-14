@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="Benvenuto">Benvenuto\u0020</string>
+    <string name="AccessoNonConsentito">Accesso non consentito.</string>
+    <string name="Errore">Errore</string>
+    <string name="UserPassVuoti">Username o Password vuoti!</string>
+    <string name="Esclamazione">!</string>
+</resources>
